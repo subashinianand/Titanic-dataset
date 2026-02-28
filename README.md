@@ -8,6 +8,10 @@ Dataset Overview
 The dataset includes information such as age, gender, passenger class, fare, and survival status. 
 It contains both numerical and categorical data. Some missing values are handled during preprocessing.
 
+Methodology
+
+The Titanic dataset was imported from Kaggle and analyzed using Pandas in Python. Data cleaning methods such as handling missing values and filtering were applied. Grouping and statistical calculations were performed to identify survival patterns.
+
 Statistical Analysis
 
 Statistical methods like mean, grouping, and survival rate calculation are applied. Analysis is done based on gender, class, and fare. 
